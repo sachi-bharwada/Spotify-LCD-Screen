@@ -1,0 +1,1 @@
+SPOTIPY_REDIRECT_URI='http://localhost/'
